@@ -1,0 +1,311 @@
+Unity Editor version:    2021.3.25f1 (68ef2c4f8861)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.6.7 (Build 21G651)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/Project 5
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+52278
+Successfully changed project path to: /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/Project 5
+/Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/Project 5
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4692850176] Host "[IP] 192.168.1.67 [Port] 0 [Flags] 2 [Guid] 2940383098 [EditorId] 2940383098 [Version] 1048832 [Id] OSXEditor(0,Gautams-Air.lan) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4692850176] Host "[IP] 192.168.1.67 [Port] 0 [Flags] 2 [Guid] 2940383098 [EditorId] 2940383098 [Version] 1048832 [Id] OSXEditor(0,Gautams-Air.lan) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 209.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.25f1 (68ef2c4f8861)
+[Subsystems] Discovering subsystems at path /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/Project 5/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Graphics 6000 (low power)
+Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56419
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.004558 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 172.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.698 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1699ms)
+		BeginReloadAssembly (325ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1160ms)
+			LoadAssemblies (326ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (321ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (661ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (172ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (371ms)
+				ProcessInitializeOnLoadMethodAttributes (93ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009819 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/Project 5/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/Project 5/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.837 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3852ms)
+		BeginReloadAssembly (707ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (109ms)
+		EndReloadAssembly (2553ms)
+			LoadAssemblies (704ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (793ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (131ms)
+			SetupLoadedEditorAssemblies (1153ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (232ms)
+				ProcessInitializeOnLoadAttributes (812ms)
+				ProcessInitializeOnLoadMethodAttributes (92ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/gautamagarwal/Desktop/OSU STUDY/CSE 3541/Unity/2021.3.25f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.26 seconds
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (0.7 MB). Loaded Objects now: 3655.
+Memory consumption went from 110.6 MB to 109.9 MB.
+Total: 12.381957 ms (FindLiveObjects: 0.346732 ms CreateObjectMapping: 0.185207 ms MarkObjects: 11.058630 ms  DeleteObjects: 0.789648 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 351833.238900 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.017075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6030978be6bc9a87df7d930eb979f5') in 0.004416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.594195 seconds.
+  path: Assets/Scenes/Lab 5.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lab 5.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89a12f6b0a90d73c4161d7d5ab1393c') in 0.002917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.124270 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_normal.png
+  artifactKey: Guid(86791057ef535404f8a7a60ea2a81d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_normal.png using Guid(86791057ef535404f8a7a60ea2a81d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00ea94de220066b38cece9ffe091184') in 2.018142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002206 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_YFliped_Normal.png
+  artifactKey: Guid(ddee466986ec720449081b01f389fe94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_YFliped_Normal.png using Guid(ddee466986ec720449081b01f389fe94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b295ba6522566b77256e6a13eba9c05c') in 0.044861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003131 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_ao.png
+  artifactKey: Guid(b0f89689d918fce4ca715e2d2f50bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_ao.png using Guid(b0f89689d918fce4ca715e2d2f50bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829fb999ad28a0d1f6d57966b559e654') in 0.147376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032344 seconds.
+  path: Assets/Scripts/Prey.cs
+  artifactKey: Guid(00d31e5479f414d7e84f220d40188d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prey.cs using Guid(00d31e5479f414d7e84f220d40188d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e642aa41a948940e872179496d388c0c') in 0.734180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.087099 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Albedo.png
+  artifactKey: Guid(0e8f903bf9016b547aa6eabef5dbe657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Albedo.png using Guid(0e8f903bf9016b547aa6eabef5dbe657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a0f25f5d24d5215f1d79d3cceae4bd') in 0.032041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003412 seconds.
+  path: Assets/Scripts/Predator.cs
+  artifactKey: Guid(4c726c4bde4294ecb90402fbdfc4b9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Predator.cs using Guid(4c726c4bde4294ecb90402fbdfc4b9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb19b3cb8cc907ae77c2849c37d1268') in 0.003580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Height.png
+  artifactKey: Guid(c2aad0ca3f333cd46ae70f27cdbbfefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Height.png using Guid(c2aad0ca3f333cd46ae70f27cdbbfefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '853de1a347bd4e2629a506c548fac77e') in 0.031757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001673 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Roughness.png
+  artifactKey: Guid(3984a7f90de1c514f9acd270148bf7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Roughness.png using Guid(3984a7f90de1c514f9acd270148bf7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b847524df8bb01894e4f6c0be1ef08') in 0.023152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012710 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_YFliped_normal.png
+  artifactKey: Guid(22da1a499fabde34888dba098e5c9d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_YFliped_normal.png using Guid(22da1a499fabde34888dba098e5c9d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c8d2ccb0c9c374a77451c6390dbcfb') in 0.033776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009809 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_height.png
+  artifactKey: Guid(c58babe44f8c3b041872e30e0f504583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_height.png using Guid(c58babe44f8c3b041872e30e0f504583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee79ca2b07baea728848e73724cb37f7') in 0.033020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_Yfliped_normal.png
+  artifactKey: Guid(384a7c41f40c1eb42af0c794cb38743d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_Yfliped_normal.png using Guid(384a7c41f40c1eb42af0c794cb38743d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aacabbd9c2109d1994babc2f4acae941') in 0.037087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_height.png
+  artifactKey: Guid(75aa83e701cf56948b1bf72f7e128920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_height.png using Guid(75aa83e701cf56948b1bf72f7e128920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e32b1b23071b6d77c82153aee189ebb') in 0.021875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001819 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_Albedo.png
+  artifactKey: Guid(44a48fe88ad4f5844b6d1672bf702e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_Albedo.png using Guid(44a48fe88ad4f5844b6d1672bf702e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95e3279dd624acd08584a29db09fb78') in 0.023451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008783 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_albedo.png
+  artifactKey: Guid(b500db8fa0ef7a748a05edd476f8792c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_albedo.png using Guid(b500db8fa0ef7a748a05edd476f8792c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426726c58d6bb1a48eed584eac74344f') in 0.023695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_AO.png
+  artifactKey: Guid(87b24c57073d5b447928e2648ff7b1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_AO.png using Guid(87b24c57073d5b447928e2648ff7b1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93456d8be97506bad7088383fb45a705') in 0.019165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_ao.png
+  artifactKey: Guid(08abe4ebe80f2a8419b792acb0d20542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_ao.png using Guid(08abe4ebe80f2a8419b792acb0d20542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2fa60e6e7f462e03065fb84cce8df4') in 0.017246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001413 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_roughness.png
+  artifactKey: Guid(152eb464a6b34704da15fc721bf15b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_roughness.png using Guid(152eb464a6b34704da15fc721bf15b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bc415c46f142c2a6559ca67f7cb6b6') in 0.022466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005692 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_AO.png
+  artifactKey: Guid(becacdba4f01e4140b81a2f0d330b994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_AO.png using Guid(becacdba4f01e4140b81a2f0d330b994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e89ba35e1e29e32d8aed64aa56d260') in 0.015572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008268 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_height.png
+  artifactKey: Guid(ec18a1357ed8093489ba7a2c9d3b0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_height.png using Guid(ec18a1357ed8093489ba7a2c9d3b0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519d2bd6727865a1c63bcb909d44811e') in 0.018839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000832 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Albedo.png
+  artifactKey: Guid(aa78f40597b7f474299a2b81d76eb80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Albedo.png using Guid(aa78f40597b7f474299a2b81d76eb80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf8f80073256b63a9064f9b507d402d') in 0.017078 seconds 
